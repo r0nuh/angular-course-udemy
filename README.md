@@ -1,4 +1,6 @@
-# CourseProject
+# Angular Course Project - udemy
+
+Angular - The Complete Guide by Maximilian Schwarzmüller
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
 
